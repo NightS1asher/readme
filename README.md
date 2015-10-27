@@ -84,6 +84,9 @@ send us a pull request.
 5. Create new Pull Request
 
 
+Hi my name is Joseph Gutscmidt and i am writing random stuff.
+My favorite color is blue, i like food(who doesn't) and i am super bored at the moment.
+
 ## License
 
 Your Licensing Information goes here. Example: MIT/X11.
